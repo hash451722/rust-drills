@@ -1,1 +1,4 @@
-# rust-drills
+# Rustの練習帳
+
+
+## 参考
